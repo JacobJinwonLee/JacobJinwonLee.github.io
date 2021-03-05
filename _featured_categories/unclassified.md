@@ -4,7 +4,6 @@ title: Unclassified
 slug: unclassified
 menu: true
 submenu: false
-order: 5
-description: >
-  경제. 취미. 그 외 살면서 필요한 기타 문서.
+order: 6
+description: 분류되지 않은 나머지 것들
 ---
