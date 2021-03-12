@@ -1,4 +1,13 @@
-﻿자산배분은 상관관계가 낮거나 음수인 우상향하는 자산들에 분산 투자하는 것입니다. 가장 기본적이고, 잘 알려진 방식은 주식 60 : 채권 40 방식입니다.
+---
+layout: post
+title:  "[PythonProject] 자산배분 - 60:40 전략 테스트"
+subtitle:   "AssetAllocation 60:40"
+categories: pythonproject
+tags: pythonproject
+comments: true
+---
+
+자산배분은 상관관계가 낮거나 음수인 우상향하는 자산들에 분산 투자하는 것입니다. 가장 기본적이고, 잘 알려진 방식은 주식 60 : 채권 40 방식입니다.
 
 
 ```python
